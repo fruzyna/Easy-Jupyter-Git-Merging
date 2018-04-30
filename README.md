@@ -7,4 +7,4 @@ Python notebooks don't work very well with git. Please refer [here](https://stac
 Alternatively, you could save it manually via: File > Download as > Python (.py)
 
 ## Converting back to a Notebook
-Simply run the included convert-to-notebook.py to convert liquor.py to a .ipynb, modify for any new notebooks.
+Simply run the included convert-to-notebook.py to convert all other .py files to .ipynb notebooks. This must be run with the same version of python that is used in Jupyter to ensure that the proper libraries are installed.
